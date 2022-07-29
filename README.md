@@ -2,7 +2,7 @@
 
 Versioned [CodeQL](https://github.com/github/codeql) and [CodeQL CLI](https://github.com/github/codeql-cli-binaries) container.
 
-See [CodeQL CLI Manual](https://codeql.github.com/docs/codeql-cli/manual/) for commands.
+See [CodeQL CLI Manual](https://codeql.github.com/docs/codeql-cli/manual/) for commands. Further project ongoing..
 
 ## Installation
 
